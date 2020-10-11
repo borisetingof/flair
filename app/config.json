@@ -1,0 +1,5 @@
+{
+  "url": "https://gateway.marvel.com:443/v1/public/characters",
+  "publicKey": "28cb1361a329b0f47d8918032a3e847a",
+  "privateKey":"8ed6d88b147285f3fa78fcaa4a6291aaa3cab6a3"
+}
